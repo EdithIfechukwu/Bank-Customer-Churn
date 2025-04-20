@@ -34,7 +34,7 @@ Customer churn is a major challenge in the banking sector, costing institutions 
    One-hot encoding of categorical variables (e.g., Geography), standardization of numeric features.
 
 3. **Modeling:**  
-   - Trained XGBoost classifier  
+   - Trained Random classifier  
    - Used GridSearchCV for hyperparameter tuning  
    - Evaluated with AUC-ROC, precision, and recall
 
@@ -77,7 +77,4 @@ The SHAP plot revealed:
 - `reports/`: Visuals and SHAP plots  
 
 ## Author
-
-[Your Full Name]  
-LinkedIn: [Your LinkedIn]  
-Email: [Your Email]
+Ifechukwu Ukatu
